@@ -1,0 +1,103 @@
+.dentist1{
+    position: absolute;
+    width: 100%;
+    height: 700px;
+    background-color: #3B4D5D;
+    color: white;
+    font-size: 15px;
+    font-family: poppins;
+    line-height: 25px;
+    letter-spacing: 0.09cm;
+    padding-top: 90px;
+    padding-left: 100px;
+}
+
+.dentist1{
+    background-image: url(thumb.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position-x: 900px;
+    background-position-y: 200px;
+}
+
+.up-konten{ 
+    background-color: white; 
+    width: 1341px; 
+    margin: auto; 
+    height: 300px;
+    color: black; 
+    margin-top: 180px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    display: flex;
+    padding-top: 20px;
+    margin-right: 300px;
+    }
+
+.green{
+    background-color: #36B0B8;
+    width: 500px;
+    height: 250px;
+    left: 900px;
+    margin-top: -280px;
+    border-radius: 200px;
+    position: relative;
+    z-index: 1;
+}
+
+.c1{
+padding-top: 60px;
+margin-left: 100px;
+background-image: url(tooth.png);
+background-size: 80px;
+background-repeat: no-repeat;
+font-size: 15px;
+}
+
+.c1 h6{
+    font-size: 9px;
+}
+
+.c2{
+margin-left: 100px;
+padding-top: 60px;
+background-image: url(dental-checkup.png);
+background-size: 80px;
+background-repeat: no-repeat;
+font-size: 15px;
+}
+
+.c2 h6{
+    font-size: 9px;
+}
+
+.c3{
+padding-top: 60px;
+margin-left: 100px;
+background-image: url(dentist.png);
+background-size: 80px;
+background-repeat: no-repeat;
+font-size: 15px;
+}
+.c3 h6{
+    font-size: 9px;
+}
+
+.c4{
+padding-top: 60px;
+margin-left: 100px;
+background-image: url(healthcare.png);
+background-size: 80px;
+background-repeat: no-repeat;
+font-size: 15px;
+}
+
+.c4 h6{
+    font-size: 9px;
+}
+
+ 
+
+
+ 
